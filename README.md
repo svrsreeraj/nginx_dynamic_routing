@@ -1,2 +1,2 @@
 # nginx_dynamic_routing
-Use nginx for dynamic routing. Especially for micro services 
+Using the power of Lua, Nginx will be able to proxy pass the request to dynamic servers. 
